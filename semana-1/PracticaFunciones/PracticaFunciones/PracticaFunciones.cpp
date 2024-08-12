@@ -17,6 +17,19 @@ void sumaYresta(int a, int b, int c) {
     cout << "La resta de el resultado de la suma - el tercer numero es" << resultadoResta;
 }
 
+
+
+//Crear una funcion calcule mi edad de acuerdo a mi año de nacimiento
+//y que retorne el resultado de la edad calculada
+
+
+
+
+
+
+
+
+
 int suma(int a, int b) {
     return a + b;
 }
