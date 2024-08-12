@@ -19,7 +19,7 @@ void sumaYresta(int a, int b, int c) {
 
 
 
-//Crear una funcion calcule mi edad de acuerdo a mi año de nacimiento
+//Crear una funcion calcule mi edad de acuerdo a mi aï¿½o de nacimiento
 //y que retorne el resultado de la edad calculada
 
 
