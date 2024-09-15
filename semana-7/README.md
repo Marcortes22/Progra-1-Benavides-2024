@@ -27,7 +27,6 @@ El almacenamiento secuencial de contenedores en archivos de texto se refiere a g
 
 - Para recuperar los datos, abre el archivo en modo lectura y lee los datos de vuelta en tu contenedor.
 - Utiliza `getline` para leer cada línea y `stringstream` para dividir esa línea en campos separados por comas.
-- Asegúrate de que los métodos `setId()`, `setNombre()`, y `setApellidos()` estén disponibles para establecer las propiedades a partir de los datos leídos.
 
 ### Paso 6: Cierre del Archivo
 
