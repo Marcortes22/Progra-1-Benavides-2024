@@ -78,6 +78,7 @@ void guardarEnArchivo(string nombreArchivo, vector<string>& nombres) {
 }
 
 
+
 int main()
 {
     string nombreArchivo = "nombres.txt";
@@ -101,25 +102,36 @@ int main()
         switch (opcion) {
         case 1:
             crearArchivo(nombreArchivo);
+            system("pause");
             break;
         case 2:
             cargarArchivo(nombreArchivo, nombres);
+            system("pause");
+
             break;
         case 3:
             limpiarArchivo(nombreArchivo);
+            system("pause");
+
             break;
         case 4: {
             string nombre;
             cout << "Ingrese el nombre a agregar: ";
             getline(cin, nombre);
 			nombres.push_back(nombre);
+            system("pause");
+
             break;
         }
         case 5:
             mostrarNombres(nombres);
+            system("pause");
+
             break;
         case 6:
 			guardarEnArchivo(nombreArchivo, nombres);
+            system("pause");
+
             break;
 
 		case 7:
@@ -129,6 +141,7 @@ int main()
             cout << "Opción no válida. Intente de nuevo." << endl;
             break;
         }
+		system("cls");
     } while (opcion != 7);
     
 }
