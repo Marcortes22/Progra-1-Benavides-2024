@@ -1,6 +1,6 @@
 ### Enunciado para diagrama UML con sobreescritura
 
-Una empresa de alquiler de vehículos necesita un sistema para gestionar su flota de automóviles, motocicletas y camiones. Los estudiantes deberán diseñar un diagrama UML que modele las siguientes entidades y relaciones, aplicando herencia, polimorfismo, agregación, composición, sobreescritura de métodos y relaciones simples.
+Una empresa de alquiler de vehículos necesita un sistema para gestionar su flota de automóviles, motocicletas y camiones. Los estudiantes deberán diseñar un diagrama UML que modele las siguientes entidades y relaciones, aplicando herencia, agregación, composición, sobreescritura de métodos y relaciones simples.
 
 #### Requisitos:
 
