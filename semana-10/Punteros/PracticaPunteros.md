@@ -47,4 +47,3 @@
 1. Crea una clase simple llamada `Libro` que contenga un atributo `titulo`.
 2. Declara un puntero a un objeto de la clase `Libro`.
 3. Usa `new` para crear un objeto de `Libro` y asígnale un valor a `titulo`.
-4. Imprime el título del libro usando el puntero y asegúrate de liberar la memoria después.
