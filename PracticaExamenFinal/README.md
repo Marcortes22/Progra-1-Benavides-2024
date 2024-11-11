@@ -43,7 +43,7 @@ El programa debe cumplir con las siguientes funcionalidades:
 ### 5. Guardar y Cargar Inventario (10 puntos)
 
 - **Guardar en Archivo:** Guardar el inventario de videojuegos en un archivo de texto, donde cada videojuego esté en una línea con los datos separados por comas. (5 puntos)
-- **Cargar desde Archivo:** Leer los videojuegos desde un archivo y agregarlos al inventario, omitiendo aquellos con ID duplicado. (5 puntos)
+- **Cargar desde Archivo:** Leer los videojuegos desde un archivo y agregarlos al inventario (5 puntos)
 
 ## Estructura del Programa (Total: 20 puntos)
 
